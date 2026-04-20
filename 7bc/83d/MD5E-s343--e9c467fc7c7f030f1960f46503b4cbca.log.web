@@ -1,0 +1,12 @@
+1776719151s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-0/demixed/data/.zarray?versionId=JHKbeQdxWMfpmsdJ3NoWnaGnM78B7at5
+1776719151s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-0%2Fdemixed%2Fdata%2F.zarray&download=true
+1776719152s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-0/dff/data/.zarray?versionId=_tA6.Nai.eV58NpVc5hrsNZ8ONdBca_W
+1776719152s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-0%2Fdff%2Fdata%2F.zarray&download=true
+1776719444s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-0/events/data/.zarray?versionId=7RZxU6rGyf7Krnc57apTmy8pL.b4Vkuu
+1776719444s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-0%2Fevents%2Fdata%2F.zarray&download=true
+1776719445s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-0/neuropil_corrected/data/.zarray?versionId=_r6hxzDtywXz0DvOz9T2A3CKoI4_JAeW
+1776719445s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-0%2Fneuropil_corrected%2Fdata%2F.zarray&download=true
+1776719445s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-0/neuropil_fluorescence/data/.zarray?versionId=Vh5ofF.OUFtQZn5amz2mvjsYAyM6t.Q0
+1776719445s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-0%2Fneuropil_fluorescence%2Fdata%2F.zarray&download=true
+1776719446s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-0/raw/data/.zarray?versionId=RMmiUaFKy9aNChAOrEDTWlheaKVaIB7S
+1776719446s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-0%2Fraw%2Fdata%2F.zarray&download=true

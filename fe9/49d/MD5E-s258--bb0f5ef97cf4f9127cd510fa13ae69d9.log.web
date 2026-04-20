@@ -1,0 +1,4 @@
+1776719456s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-4/demixed/rois/0?versionId=bS2Y3bk3wvV23ERFfTSpSKkhBs7jOvBP
+1776719456s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-4%2Fdemixed%2Frois%2F0&download=true
+1776719456s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-4/image_segmentation/roi_table/id/0?versionId=FuEGmWs6gZPw80S7gdSToeOjcYLx_LWg
+1776719456s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-4%2Fimage_segmentation%2Froi_table%2Fid%2F0&download=true

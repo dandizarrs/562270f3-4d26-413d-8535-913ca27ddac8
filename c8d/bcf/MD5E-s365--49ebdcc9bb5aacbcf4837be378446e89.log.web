@@ -1,0 +1,6 @@
+1776719444s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-0/image_segmentation/roi_table/column/.zarray?versionId=tjqEbYllNseS.JvRU4lmq_bPionmxFCa
+1776719444s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-0%2Fimage_segmentation%2Froi_table%2Fcolumn%2F.zarray&download=true
+1776719444s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-0/image_segmentation/roi_table/pika_roi_id/.zarray?versionId=WRqgOXh6Gn_uj1d6.2aM9yJgZiQsm2I0
+1776719444s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-0%2Fimage_segmentation%2Froi_table%2Fpika_roi_id%2F.zarray&download=true
+1776719445s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/processing/plane-0/image_segmentation/roi_table/volume/.zarray?versionId=7kl8_nOv4kr4TbHLGaPhCIucWJW8YjiG
+1776719445s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=processing%2Fplane-0%2Fimage_segmentation%2Froi_table%2Fvolume%2F.zarray&download=true
