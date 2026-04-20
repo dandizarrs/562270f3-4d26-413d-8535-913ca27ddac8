@@ -1,0 +1,6 @@
+1776715493s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/intervals/epochs/duration/.zarray?versionId=kkbYwlizfg4nctr3O6glUyy1lGPTubSY
+1776715493s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=intervals%2Fepochs%2Fduration%2F.zarray&download=true
+1776715493s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/intervals/epochs/start_time/.zarray?versionId=59m1Mo_neMXwinFzchzRPG2GEfjBfCGF
+1776715493s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=intervals%2Fepochs%2Fstart_time%2F.zarray&download=true
+1776715493s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/intervals/epochs/stop_time/.zarray?versionId=YEW5Vahd.pxaedh4lm3hQFn25TzUqyji
+1776715493s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=intervals%2Fepochs%2Fstop_time%2F.zarray&download=true

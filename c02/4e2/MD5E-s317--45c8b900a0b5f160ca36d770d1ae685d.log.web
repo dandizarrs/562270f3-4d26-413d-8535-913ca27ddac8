@@ -1,0 +1,4 @@
+1776715493s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/intervals/stimulus_table/id/.zarray?versionId=qO4SljNVeSkopny3C8V.4DtfXgcnPGym
+1776715493s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=intervals%2Fstimulus_table%2Fid%2F.zarray&download=true
+1776715493s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/intervals/stimulus_table/stimulus_condition_id/.zarray?versionId=HSIhXfODhsC_ZgYnSTTxSmvROVzep039
+1776715493s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=intervals%2Fstimulus_table%2Fstimulus_condition_id%2F.zarray&download=true

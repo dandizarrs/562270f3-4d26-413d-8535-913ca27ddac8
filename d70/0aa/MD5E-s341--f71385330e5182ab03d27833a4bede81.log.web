@@ -1,0 +1,4 @@
+1776715492s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/acquisition/vasculature_maps/vasmap_mp/.zarray?versionId=E6wBB89sEZaG59wKCgHvPgiTxEom95ei
+1776715492s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=acquisition%2Fvasculature_maps%2Fvasmap_mp%2F.zarray&download=true
+1776715492s 1 https://dandiarchive.s3.amazonaws.com/zarr/562270f3-4d26-413d-8535-913ca27ddac8/acquisition/vasculature_maps/vasmap_mp_rotated/.zarray?versionId=Hut9MQgYbj5XXSQna2IFcSUYmMOh7zaL
+1776715492s 1 https://api.dandiarchive.org/api/zarr/562270f3-4d26-413d-8535-913ca27ddac8/files?prefix=acquisition%2Fvasculature_maps%2Fvasmap_mp_rotated%2F.zarray&download=true
